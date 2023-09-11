@@ -1,0 +1,17 @@
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PuanFikstürü\bin\Debug\net6.0-windows\PuanFikstürü.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PuanFikstürü\bin\Debug\net6.0-windows\PuanFikstürü.deps.json
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PuanFikstürü\bin\Debug\net6.0-windows\PuanFikstürü.runtimeconfig.json
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PuanFikstürü\bin\Debug\net6.0-windows\PuanFikstürü.dll
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PuanFikstürü\bin\Debug\net6.0-windows\PuanFikstürü.pdb
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PuanFikstürü\obj\Debug\net6.0-windows\PuanFikstürü.Form1.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PuanFikstürü\obj\Debug\net6.0-windows\PuanFikstürü.Properties.Resources.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PuanFikstürü\obj\Debug\net6.0-windows\PuanFikstürü.csproj.GenerateResource.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PuanFikstürü\obj\Debug\net6.0-windows\PuanFikstürü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PuanFikstürü\obj\Debug\net6.0-windows\PuanFikstürü.AssemblyInfoInputs.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PuanFikstürü\obj\Debug\net6.0-windows\PuanFikstürü.AssemblyInfo.cs
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PuanFikstürü\obj\Debug\net6.0-windows\PuanFikstürü.csproj.CoreCompileInputs.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PuanFikstürü\obj\Debug\net6.0-windows\PuanFikstürü.dll
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PuanFikstürü\obj\Debug\net6.0-windows\refint\PuanFikstürü.dll
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PuanFikstürü\obj\Debug\net6.0-windows\PuanFikstürü.pdb
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PuanFikstürü\obj\Debug\net6.0-windows\PuanFikstürü.genruntimeconfig.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PuanFikstürü\obj\Debug\net6.0-windows\ref\PuanFikstürü.dll
